@@ -157,7 +157,7 @@ func main() {
     return
   }
 
-  fmt.Println("❗ Usage :")
+  fmt.Println("❗ Usage : ")
   fmt.Println("  --text \"Text to encode\"")
   fmt.Println("  --file file_path.txt")
 }
