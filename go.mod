@@ -1,3 +1,3 @@
-module github.com/Yasha-ops/unigode
+module github.com/yasha-ops/unigode
 
 go 1.23.1
